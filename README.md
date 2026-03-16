@@ -7,7 +7,7 @@ The dashboard analyzes sales data to uncover insights about revenue trends, cust
 
 The goal of this project is to demonstrate **data analysis, data modeling, and dashboard visualization skills using Excel**.
 
----
+
 
 ## Dashboard Insights
 
@@ -33,7 +33,7 @@ Interactive filters allow users to analyze data based on:
 * Order Date
 * Occasion
 
----
+
 
 ## Data Model
 
@@ -81,7 +81,7 @@ The dashboard uses **Power Pivot** to create relationships between multiple data
 * Customer → Orders (Customer_ID)
 * Products → Orders (Product_ID)
 
----
+
 
 ## Tools & Features Used
 
@@ -93,7 +93,7 @@ The dashboard uses **Power Pivot** to create relationships between multiple data
 * Data Visualization
 * KPI Metrics
 
----
+
 
 ## Key Learnings
 
@@ -105,7 +105,7 @@ Through this project I improved my skills in:
 * Business Data Visualization
 * Extracting Insights from Raw Data
 
----
+
 
 ## Project Preview
 
@@ -117,8 +117,3 @@ Dashboard includes:
 * Top products and cities
 * Interactive filters for dynamic analysis
 
----
-
-## Author
-
-**Manasvi Pawar**
